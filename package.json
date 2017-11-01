@@ -1,0 +1,19 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janicechang2016/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janicechang2016/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/janicechang2016/Constructor-Hangman#readme"
+}
